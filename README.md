@@ -1,1 +1,1 @@
-# supergruppen
+# supergruppen - Frederik Braagaard, Ali Hassanain, Jonathan Juhl.
